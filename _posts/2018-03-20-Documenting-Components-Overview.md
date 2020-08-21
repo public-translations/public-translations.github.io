@@ -1,12 +1,17 @@
 ---
 layout: article
+
 title: Документирование Компонентов <br> Обзор
+
 header:
   theme: default
+
 aside:
   toc: true
+
 sidebar:
   nav: docs-en
+
 article_header:
   type: overlay
   theme: dark
