@@ -3,7 +3,7 @@
 author: Ivan Chernyaev
 
 tags: design-system
-title: Документирование Компонентов - Обзор
+title: Документирование компонентов — Обзор, 1 из 7 
 
 # page settings
 
