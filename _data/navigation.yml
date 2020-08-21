@@ -49,7 +49,7 @@ header:
       # @end locale config
     url: /about.html
 
-docs:
+docs-en:
   - title:      Start
     children:
       - title:  Quick Start
