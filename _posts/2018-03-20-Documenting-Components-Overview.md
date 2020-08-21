@@ -5,13 +5,25 @@ tags: design-system
 title: Документирование Компонентов - Обзор
 
 # page settings
+
+## Выбрать шаблон статьи
 layout: article
+
+## Включить toc
 aside:
   toc: true
+
+## Включить и обозначить сайдбар
 sidebar:
   nav: documenting-components
+
+## Выключить отображение лицензии
 license: false
+
+## Выключить функцию подписаться RSS
 show_subscribe: false
+
+## Показать профайл автора
 show_author_profile: true
 ---
 
