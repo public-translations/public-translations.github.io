@@ -1,7 +1,7 @@
 ---
 # info
 title: Документирование компонентов — Обзор
-tags: design-system medium
+tags: design-system medium nathan-curtis
 permalink: /_posts/2018-03-20-Documenting-Components-Overview
 
 # page settings

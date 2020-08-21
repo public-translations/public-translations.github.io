@@ -1,7 +1,7 @@
 ---
 # info
 title: Документирование компонентов — Авторинг
-tags: design-system medium
+tags: design-system medium nathan-curtis
 permalink: /_posts/2018-12-19-Documenting-Components-Authoring
 
 # page settings

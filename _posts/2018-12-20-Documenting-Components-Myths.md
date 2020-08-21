@@ -1,7 +1,7 @@
 ---
 # info
 title: Документирование компонентов — Мифы
-tags: design-system medium
+tags: design-system medium nathan-curtis
 permalink: /_posts/2018-12-20-Documenting-Components-Myths
 
 # page settings

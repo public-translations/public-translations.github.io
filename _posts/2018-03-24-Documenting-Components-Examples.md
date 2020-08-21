@@ -1,7 +1,7 @@
 ---
 # info
 title: Документирование компонентов — Примеры
-tags: design-system medium
+tags: design-system medium nathan-curtis
 permalink: /_posts/2018-03-24-Documenting-Components-Examples
 
 # page settings
