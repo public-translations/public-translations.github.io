@@ -10,6 +10,7 @@ aside:
   toc: true
 sidebar:
   nav: documenting-components
+modify_date
 ---
 
 Высококачественная компонентная документация является отличительной чертой эффективной библиотеки. 
