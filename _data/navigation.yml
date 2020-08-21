@@ -49,16 +49,20 @@ header:
       # @end locale config
     url: /about.html
 
-docs-en:
-  - title:      Start
+documenting-components:
+  - title: Документирование компонентов
     children:
-      - title:  Quick Start
-        url:    /docs/en/quick-start
-      - title:  Structure
-        url:    /docs/en/structure
-  - title:      Customization
-    children:
-      - title:  Configuration
-        url:    /docs/en/configuration
-      - title:  Navigation
-        url:    /docs/en/navigation
+      - title: Обзор
+        url:   
+      - title: Вступления
+        url:   
+      - title: Примеры
+        url: 
+      - title: Дизайн
+        url: 
+      - title: Код (Пусто)
+        url: 
+      - title: Авторинг
+        url: 
+      - title: Мифы
+        url: 
