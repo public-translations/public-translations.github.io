@@ -49,24 +49,6 @@ header:
       # @end locale config
     url: /about.html
 
-documenting-components:
-  - title:      Документирование компонентов
-    children:
-      - title: 1. Обзор
-        url:   https://public-translations.github.io/2018/03/20/Documenting-Components-Overview.html
-      - title: 2. Вступления
-        url:   https://public-translations.github.io/2018/03/22/Documenting-Components-Intros.html
-      - title: 3. Примеры
-        url: 
-      - title: 4. Дизайн
-        url: 
-      - title: 5. Код
-        url: 
-      - title: 6. Авторинг
-        url: 
-      - title: 7. Мифы
-        url: 
-
 docs:
   - title:      Start
     children:
