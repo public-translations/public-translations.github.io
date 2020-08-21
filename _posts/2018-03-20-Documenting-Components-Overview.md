@@ -1,9 +1,8 @@
 ---
 layout: article
-title: Документирование Компонентов — Обзор
+title: Документирование Компонентов <br> Обзор
 header:
   theme: dark
-  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 article_header:
   type: overlay
   theme: dark
