@@ -5,16 +5,13 @@ tags: design-system
 
 layout: article
 
-title: Документирование Компонентов <br> Обзор
-
-header:
-  theme: default
+title: Документирование Компонентов - Обзор
 
 aside:
   toc: true
 
 sidebar:
-  nav: layout
+  nav: docs-en
 
 ---
 
