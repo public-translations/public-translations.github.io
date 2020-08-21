@@ -2,7 +2,7 @@
 # info
 title: Документирование компонентов — Обзор
 tags: design-system medium
-permalink: _posts/2018-03-20-Documenting-Components-Overview
+permalink: /_posts/2018-03-20-Documenting-Components-Overview
 
 
 
