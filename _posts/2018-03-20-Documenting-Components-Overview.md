@@ -11,7 +11,7 @@ aside:
   toc: true
 
 sidebar:
-  nav: docs-en
+  nav: docs
 
 ---
 
