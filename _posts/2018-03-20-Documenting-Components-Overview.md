@@ -1,13 +1,17 @@
 ---
+layout: article
 title: Документирование Компонентов — Обзор
-tags: design-system
-author: Ivan Chernyaev
+header:
+  theme: dark
+  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 article_header:
-  type: cover
-  image:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: https://user-images.githubusercontent.com/14002721/90884406-581cee00-e3b8-11ea-816e-8ce12704d813.png
 ---
-
 
 Высококачественная компонентная документация является отличительной чертой эффективной библиотеки. Мы описываем каждый UI компонент, стремясь стимулировать принятие эффективных дизайн решений и ускорить разработку. Хорошая документация не бесплатна. Нужно планирование, усилия и процесс, чтобы сделать примеры и руководства, которые меняют ситуацию к лучшему.
 
