@@ -48,3 +48,18 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+docs-en:
+  - title:      Документирование компонентов
+    children:
+      - title:  Обзор
+        url:    https://public-translations.github.io/2018/03/20/Documenting-Components-Overview.html
+      - title:  Structure
+        url:    /docs/en/structure
+      ...
+  - title:      Customization
+    children:
+      - title:  Configuration
+        url:    /docs/en/configuration
+      - title:  Navigation
+        url:    /docs/en/navigation
