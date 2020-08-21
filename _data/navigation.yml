@@ -53,7 +53,7 @@ documenting-components:
   - title: Документирование компонентов
     children:
       - title: Обзор
-        url:   
+        url:   /public-translations.github.io/_posts/2018-03-20-Documenting-Components-Overview.md 
       - title: Вступления
         url:   
       - title: Примеры
