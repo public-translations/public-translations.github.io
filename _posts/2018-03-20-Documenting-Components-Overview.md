@@ -14,7 +14,11 @@ aside:
   toc: true
 
 sidebar:
-  nav: documenting-components
+  nav: layout
+    - title:      Документирование компонентов
+    children:
+      - title: 1. Обзор
+        url:   https://public-translations.github.io/2018/03/20/Documenting-Components-Overview.html
 
 ---
 
