@@ -55,14 +55,14 @@ documenting-components:
       - title: Обзор
         url:   /_posts/2018-03-20-Documenting-Components-Overview
       - title: Вступления
-        url:   
+        url:   /_posts/2018-03-22-Documenting-Components-Intros
       - title: Примеры
-        url: 
+        url:   /_posts/2018-03-24-Documenting-Components-Examples
       - title: Дизайн
-        url: 
+        url:  /_posts/2018-06-15-Documenting-Components-Design
       - title: Код (Пусто)
-        url: 
+        url:  /_posts/2018-03-24-Documenting-Components-Code
       - title: Авторинг
-        url: 
+        url:  /_posts/2018-12-19-Documenting-Components-Authoring
       - title: Мифы
-        url: 
+        url:  /_posts/2018-12-20-Documenting-Components-Myths
