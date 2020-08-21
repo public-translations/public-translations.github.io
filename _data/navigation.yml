@@ -52,17 +52,17 @@ header:
 documenting-components:
   - title: Документирование компонентов
     children:
-      - title: Обзор
+      - title: 1. Обзор
         url:   /_posts/2018-03-20-Documenting-Components-Overview
-      - title: Вступления
+      - title: 2. Вступления
         url:   /_posts/2018-03-22-Documenting-Components-Intros
-      - title: Примеры
+      - title: 3. Примеры
         url:   /_posts/2018-03-24-Documenting-Components-Examples
-      - title: Дизайн
+      - title: 4. Дизайн
         url:  /_posts/2018-06-15-Documenting-Components-Design
-      - title: Код (Пусто)
-        url:  /_posts/2018-03-24-Documenting-Components-Code
-      - title: Авторинг
+      - title: 5. Код (Пусто)
+        url:  /_posts/2018-08-08-Documenting-Components-Code
+      - title: 6. Авторинг
         url:  /_posts/2018-12-19-Documenting-Components-Authoring
-      - title: Мифы
+      - title: 7. Мифы
         url:  /_posts/2018-12-20-Documenting-Components-Myths
