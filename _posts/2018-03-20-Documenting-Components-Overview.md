@@ -2,7 +2,7 @@
 # info
 title: Документирование компонентов — Обзор
 the_url: https://public-translations.github.io/2018/03/20/Documenting-Components-Overview.html
-tags: design-system, medium
+tags: design-system medium
 
 
 
