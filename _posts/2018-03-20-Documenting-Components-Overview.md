@@ -2,8 +2,6 @@
 # info
 author: Ivan Chernyaev
 
-author: Tian Qi
-
 tags: design-system
 title: Документирование Компонентов - Обзор
 
