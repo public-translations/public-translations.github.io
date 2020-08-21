@@ -53,7 +53,7 @@ documenting-components:
   - title: Документирование компонентов
     children:
       - title: Обзор
-        url:   _posts/2018-03-20-Documenting-Components-Overview
+        url:   /_posts/2018-03-20-Documenting-Components-Overview
       - title: Вступления
         url:   
       - title: Примеры
