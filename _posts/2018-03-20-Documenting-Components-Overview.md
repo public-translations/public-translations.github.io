@@ -10,6 +10,9 @@ aside:
   toc: true
 sidebar:
   nav: documenting-components
+license: false
+show_subscribe: false
+show_author_profile: true
 ---
 
 Высококачественная компонентная документация является отличительной чертой эффективной библиотеки. 
