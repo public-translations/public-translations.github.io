@@ -6,7 +6,7 @@ header:
 aside:
   toc: true
 sidebar:
-  nav: layouts
+  nav: docs-en
 article_header:
   type: overlay
   theme: dark
