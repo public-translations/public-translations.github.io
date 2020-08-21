@@ -1,6 +1,6 @@
 ---
-title: Docmunetning Components — Overview
-tags: Design-System
+title: Документирование Компонентов — Обзор
+tags: design-system
 author: Ivan Chernyaev
 article_header:
   type: cover
