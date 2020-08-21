@@ -66,10 +66,8 @@ documenting-components:
         url: 
       - title: 7. Мифы
         url: 
-        
-        ... 
-        
-docs-en:
+
+docs:
   - title:      Start
     children:
       - title:  Quick Start
