@@ -1,6 +1,8 @@
 ---
 author: Ivan Chernyaev
 
+tags: design-system
+
 layout: article
 
 title: Документирование Компонентов <br> Обзор
