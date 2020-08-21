@@ -50,9 +50,9 @@ header:
     url: /about.html
 
 documenting-components:
-  - title: Документирование компонентов
+  - title: Documenting Components
     children:
-      - title: Обзор
+      - title: Overview
         url:   https://public-translations.github.io/2018/03/20/Documenting-Components-Overview.html
       - title: Вступления
         url:   
