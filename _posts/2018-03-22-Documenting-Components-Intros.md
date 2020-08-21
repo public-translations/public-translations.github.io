@@ -5,7 +5,7 @@ tags: design-system
 
 layout: article
 
-title: Документирование Компонентов <br> Обзор
+title: Документирование Компонентов <br> Вступления
 
 header:
   theme: default
