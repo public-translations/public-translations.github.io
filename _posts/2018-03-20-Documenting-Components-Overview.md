@@ -2,6 +2,10 @@
 title: Docmunetning Components — Overview
 tags: Design-System
 author: Ivan Chernyaev
+article_header:
+  type: cover
+  image:
+    src: https://user-images.githubusercontent.com/14002721/90884406-581cee00-e3b8-11ea-816e-8ce12704d813.png
 ---
 
 
