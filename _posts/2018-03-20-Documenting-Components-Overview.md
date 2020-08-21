@@ -2,7 +2,11 @@
 layout: article
 title: Документирование Компонентов <br> Обзор
 header:
-  theme: dark
+  theme: default
+aside:
+  toc: true
+sidebar:
+  nav: layouts
 article_header:
   type: overlay
   theme: dark
