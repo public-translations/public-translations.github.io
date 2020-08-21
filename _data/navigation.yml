@@ -52,15 +52,17 @@ header:
 documenting-components:
   - title:      Документирование компонентов
     children:
-      - title:  Обзор
-        url:    https://public-translations.github.io/2018/03/20/Documenting-Components-Overview.html
-      - title: Вступления
+      - title: 1. Обзор
+        url:   https://public-translations.github.io/2018/03/20/Documenting-Components-Overview.html
+      - title: 2. Вступления
+        url:
+      - title: 3. Примеры
         url: 
-      - title: Дизайн
+      - title: 4. Дизайн
         url: 
-      - title: Код
+      - title: 5. Код
         url: 
-      - title: Авторинг
+      - title: 6. Авторинг
         url: 
-      - title: Мифы
+      - title: 7. Мифы
         url: 
