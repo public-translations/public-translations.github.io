@@ -7,9 +7,6 @@ layout: article
 
 title: Документирование Компонентов - Обзор
 
-aside:
-  toc: true
-
 sidebar:
   nav: docs
 
