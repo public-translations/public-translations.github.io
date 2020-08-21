@@ -10,7 +10,7 @@ aside:
   toc: true
 
 sidebar:
-  nav: docs-en
+  nav: documenting-components
 
 article_header:
   type: overlay
