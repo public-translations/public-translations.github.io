@@ -11,8 +11,7 @@ author: Ivan Chernyaev
 
 Так что я начинаю с вопроса: для какой аудитории эта документация, какое содержание аудитории нужно, и как мы можем оптимально спроектировать страницы документации для передачи этого содержимого.
 
-`[Оригинал статьи](https://medium.com/eightshapes-llc/documenting-components-9fe59b80c015)`
-{:.info}
+`Оригинал статьи можно [посмотреть здесь](https://medium.com/eightshapes-llc/documenting-components-9fe59b80c015)`{:.info}
 
 ---
 
