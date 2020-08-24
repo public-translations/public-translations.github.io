@@ -1,7 +1,7 @@
 ---
 # info
 title: Документирование компонентов — Вступления
-tags: design-system medium nathan-curtis
+tags: design design-system medium nathan-curtis
 permalink: /_posts/2018-03-22-Documenting-Components-Intros
 
 # page settings
