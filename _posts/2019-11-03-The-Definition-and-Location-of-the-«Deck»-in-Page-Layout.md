@@ -12,7 +12,7 @@ layout: article
 
 ## Включить toc
 aside:
-  toc: true
+  toc: false
 
 ## Включить и обозначить sidebar
 sidebar:
