@@ -16,7 +16,7 @@ aside:
 
 ## Включить и обозначить sidebar
 sidebar:
-  nav: documenting-components
+  # nav: documenting-components
 
 ## Выключить отображение лицензии
 license: false
