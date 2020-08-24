@@ -24,7 +24,7 @@ license: false
 show_subscribe: false
 
 ## Показать профайл автора
-show_author_profile: true
+show_author_profile: false
 ---
 
 Высококачественная компонентная документация является отличительной чертой эффективной библиотеки.
