@@ -24,7 +24,8 @@ license: false
 show_subscribe: false
 
 ## Показать профайл автора
-show_author_profile: true
+show_author_profile: false
+
 ---
 
 # Имена компонентов: "Меня зовут..."
