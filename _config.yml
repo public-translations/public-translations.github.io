@@ -131,9 +131,10 @@ comments:
     clientSecret: 16b915c58dd385e835ea5b523d03bd09ede1cb34 # GitHub Application Client Secret
     repository  : https://github.com/public-translations/public-translations.github.io # GitHub repo
     owner       : https://github.com/aroundblacksneverrelax # GitHub repo owner
-    admin: 
-      - aroundblacksneverrelax # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
+      - aroundblacksneverrelax 
+      
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
